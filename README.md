@@ -52,3 +52,7 @@ Then invoke it by name or by the trigger phrases above.
 ## Safety
 
 Documentation-only. No executable code, no network calls, no external dependencies.
+
+## License
+
+[MIT](LICENSE) © 2026 LALGL. Free to use, modify, and redistribute.
